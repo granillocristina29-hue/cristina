@@ -1,5 +1,5 @@
 # cristina granillo 
-engo 17 años y actualmente estudio el segundo año de la especialidad en Desarrollo de Software en el Instituto Nacional "Ernesto Flores".
+tengo 17 años y actualmente estudio el segundo año de la especialidad en Desarrollo de Software en el Instituto Nacional "Ernesto Flores".
 
 Elegí esta carrera porque siempre me dio curiosidad entender la lógica detrás de las aplicaciones que usamos a diario, cómo se construyen los sitios web y de qué manera la tecnología resuelve problemas cotidianos.
 
